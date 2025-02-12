@@ -6,4 +6,5 @@ To clone a repository, use the following command:
 - Replace `<reponame>` with the name of the repository you want to clone.  
 
 For example, if your GitHub username is *HsuMyatWin-SuniTAFE* and the repository is named *BSBXTW301-2025-T1-Team*, the command would be:  
-`git clone git@github.com:HsuMyatWin-SuniTAFE:BSBXTW301-2025-T1-Team.git` [or] `git clone git@github.com:HsuMyatWin-SuniTAFE/BSBXTW301-2025-T1-Team.git`
+`git clone git@github.com:HsuMyatWin-SuniTAFE/BSBXTW301-2025-T1-Team.git`  
+```BSBXTW301-2025-T1-Team
