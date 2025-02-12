@@ -1,5 +1,5 @@
 This repository is for BSBXTW301: Term 1 (2025) - Assessment task 3 submission.  
-To clone this repository, use the following command:  
+To clone a repository, use the following command:  
 `git clone git@github.com:<accountname>:<reponame>.git`  [or] `git clone git@github.com:<accountname>/<reponame>.git`  
 
 - Replace `<accountname>` with your GitHub username or the organization name.  
